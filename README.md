@@ -1,7 +1,5 @@
-# til
-
-開発時のアイディアやメモ書きを管理するレポジトリ。
-til...?
+# knowledge
 
 `blog`: GitHub Pagesで公開
+`healthcare`: 健康に関する情報
 `misc`: 雑多なメモ書き
