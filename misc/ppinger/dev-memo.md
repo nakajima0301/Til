@@ -51,3 +51,8 @@
 - [x] MaxRtt     : time.duration
 - [x] AvgRtt     : time.duration
 - [x] StdDevRtt  : time.duration
+
+## 通知方法について
+
+- chatbot
+- prometheus + exporter + grafana
