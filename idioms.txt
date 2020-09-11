@@ -1,0 +1,2 @@
+# サイズが1GB以上のファイルを検索
+find / -size +1G | xargs ls -lh | sort -rn
